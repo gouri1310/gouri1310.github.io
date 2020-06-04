@@ -1,0 +1,49 @@
+a{ text-decoration: none;
+
+color:blue;
+}
+a:hover
+{
+  text-decoration: none;
+  color:red;
+
+}
+h1{
+  text-align: center;
+  text-decoration: underline;
+  color:pink;
+  font-style:oblique;
+  font-weight:400;
+  font-family:papyrus,fantasy;
+  background-color:black;
+  font-size: 4rem;
+}
+h2
+{
+  color:darkgreen;;
+  font-style: oblique;
+  font-weight:bold;
+  font-family:lucida bright,serif;
+  font-size: 1.5rem;
+  background-color:lightcyan;
+
+}
+h3{
+  font-size:2.7rem;
+  font-weight:bolder;
+
+}
+body{
+  background-color: azure;
+  color:darkred;
+  font-size:1.7rem;
+  font-family:papyrus,fantasy;
+  font-weight:bold;
+  font-style:oblique;
+  text-align: center;
+}
+footer{background-color:black;
+font-size:1.2rem;
+text-align: left;
+color:lime;
+font-style: normal;}
